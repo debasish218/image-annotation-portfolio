@@ -58,9 +58,8 @@ Welcome to my image annotation portfolio! I specialize in computer vision datase
 > - Annotation Format Conversion
 > - Dataset QC and Cleanup
 
-📧 Email: debasishyourmail@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/debasish](https://linkedin.com/in/debasish)  
-🔗 GitHub: [github.com/debasishmahapatra](https://github.com/debasishmahapatra)
+📧 Email: debasishmahapatra218@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/debasish]([https://linkedin.com/in/debasish](https://www.linkedin.com/in/debasish-mahapatra-161b22237/))  
 
 ---
 
