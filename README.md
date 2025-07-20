@@ -37,7 +37,7 @@ Welcome to my image annotation portfolio! I specialize in computer vision datase
 
 | Bounding Box Annotation | Polygon Segmentation |
 |-------------------------|----------------------|
-| ![bbox](assets/bbox-sample.jpg) | ![seg](assets/polygon-sample.jpg) |
+| ![bbox](Assets/bounding-box.png) | ![seg](assets/polygon-sample.jpg) |
 
 ---
 
